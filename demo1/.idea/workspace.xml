@@ -94,7 +94,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdfdown.py" />
+      <option name="SCRIPT_NAME" value="D:\development\github\python3\demo1\unionpay\pdfdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +116,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib_test02.py" />
+      <option name="SCRIPT_NAME" value="D:\development\github\python3\demo1\unionpay\urllib_test02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +186,7 @@
       <workItem from="1609047542809" duration="7000" />
       <workItem from="1609047576450" duration="10000" />
       <workItem from="1609047610275" duration="9270000" />
-      <workItem from="1609116146708" duration="18645000" />
+      <workItem from="1609116146708" duration="19205000" />
     </task>
     <servers />
   </component>
