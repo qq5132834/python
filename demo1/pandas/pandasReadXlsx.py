@@ -4,7 +4,7 @@ if __name__ == "__main__":
     print("hello world.")
     df = pd.read_excel("d:/hello.xlsx")
     print(df.shape)
-    print(df.columns)
+    print(df.columns) #
     print(df.head())  # 默认5行
     print(df.head(3))  # 前3行
     print(df.tail(3))  # 后3行
