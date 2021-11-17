@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45bad35-e76c-4a45-adf1-388bb51e4cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pandas/javaPython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/pandasReadXlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/pandasReadXlsx.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,6 +201,9 @@
       <workItem from="1609116146708" duration="20183000" />
       <workItem from="1609166849776" duration="4934000" />
       <workItem from="1609201663781" duration="3322000" />
+      <workItem from="1610419973518" duration="237000" />
+      <workItem from="1616224741101" duration="58000" />
+      <workItem from="1623431210123" duration="88000" />
     </task>
     <servers />
   </component>
